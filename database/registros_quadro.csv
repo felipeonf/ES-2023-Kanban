@@ -1,0 +1,9 @@
+codigo,nome,descricao,limite_cartoes,Conta_email
+QK01,"Projeto de Desenvolvimento","Projeto de desenvolvimento do produto X",10,alice@example.com
+QK02,"Tarefas de Marketing","Campanha de marketing para o lançamento",5,roberto@example.com
+QK03,"Projeto de Marketing","Elaborar campanha de email marketing",8,carla@example.com
+QK04,"Tarefas de Desenvolvimento","Desenvolvimento de novos recursos",6,david@example.com
+QK05,"Projeto de Vendas","Estratégia de vendas para o trimestre",7,elisa@example.com
+QK06,"Projeto de Finanças","Gerenciamento financeiro da empresa",12,carla@example.com
+QK07,"Tarefas de Design","Design de interfaces e experiência do usuário",5,david@example.com
+QK08,"Projeto de Logística","Otimização da cadeia de suprimentos",8,elisa@example.com
