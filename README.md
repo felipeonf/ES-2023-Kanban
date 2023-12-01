@@ -13,3 +13,6 @@
 ### Vitor Duda Versiani - 211060737  Artefatos:
 - Descrição da arquitetura do software
 - Descrição da infraestrutura de implantação
+### Henrique Oliveira Silva - 200019473  Artefatos:
+- Lista de ferramentas
+- Especificação de requisitos não expressos por meio de casos de uso
